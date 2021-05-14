@@ -18,7 +18,7 @@ This project is an EDA (Exploratory Data Analysis) into NYC's Open Data Motor Ve
 
 ## Relevant Findings 
 ![Image](Histogram.png)
-[^1]: Shows the distrubtion of Daily Vehicle Accidents. 
+Shows the distrubtion of Daily Vehicle Accidents.[^1]
 ![Image](Boxplot.png)
 ![Image](AverageVehicleAccidentsByWeekday.png)
 ![Image](FatalitiesByContributingFactor.png)
