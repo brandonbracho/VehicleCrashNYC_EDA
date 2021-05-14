@@ -16,9 +16,7 @@ This project is an EDA (Exploratory Data Analysis) into NYC's Open Data Motor Ve
 - *Data Source:* https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95
 
 ## Relevant Findings 
-![Image](Histogram.png)
-- Shows the distribution of Daily Vehicle Accidents.
-![Image](Boxplot.png)
+![Image](Histogram.png) ![Image](Boxplot.png)
 ![Image](AverageVehicleAccidentsByWeekday.png)
 ![Image](FatalitiesByContributingFactor.png)
 ![Image](ContributingFactorCount.png)
