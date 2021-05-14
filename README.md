@@ -10,7 +10,6 @@ This project is an EDA (Exploratory Data Analysis) into NYC's Open Data Motor Ve
 - Used pandas and numpy to clean, wrangle and analyze over 1 million rows and 29 columns of data. 
 - Used matplotlib and seaborn to visualize data. 
 - Used gmaps package to plot accident densities across the city. 
-- 
 ## Packages and Resources Used
 - *Python Version:* 3.7 
 - *Packages:* Pandas, Numpy, Gmaps, Matplotlib, Seaborn, Scipy
@@ -18,6 +17,7 @@ This project is an EDA (Exploratory Data Analysis) into NYC's Open Data Motor Ve
 
 ## Relevant Findings 
 ![Image](Histogram.png)
+- Shows the distribution of Daily Vehicle Accidents.
 ![Image](Boxplot.png)
 ![Image](AverageVehicleAccidentsByWeekday.png)
 ![Image](FatalitiesByContributingFactor.png)
