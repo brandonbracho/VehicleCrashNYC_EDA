@@ -20,7 +20,7 @@ This project is an EDA (Exploratory Data Analysis) into NYC's Open Data Motor Ve
 Plots distribution of vehicle accidents on a KDE.
 ---
 ![Image](Boxplot.png)
-Plots distribution of vehicle accidents on a boxplot
+###### Plots distribution of vehicle accidents on a boxplot
 ---
 ![Image](AverageVehicleAccidentsByWeekday.png)
 ![Image](FatalitiesByContributingFactor.png)
