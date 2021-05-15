@@ -23,6 +23,8 @@ This project is an EDA (Exploratory Data Analysis) into NYC's Open Data Motor Ve
 ##### Distribution of daily vehicle accidents plotted on a boxplot.
 ---
 ![Image](AverageVehicleAccidentsByWeekday.png)
+##### The average amount of daily vehicle accidents grouped by day of the week. Friday features the most average accidents of any day while Sunday features the least. 
+---
 ![Image](FatalitiesByContributingFactor.png)
 ![Image](ContributingFactorCount.png)
 ![Image](DeathsPerAccidentByHour.png)
