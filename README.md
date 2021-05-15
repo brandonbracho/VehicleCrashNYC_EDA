@@ -26,6 +26,8 @@ This project is an EDA (Exploratory Data Analysis) into NYC's Open Data Motor Ve
 ##### The average amount of daily vehicle accidents grouped by day of the week. Friday features the most average accidents of any day while Sunday features the least. 
 ---
 ![Image](FatalitiesByContributingFactor.png)
+##### The total number of fatalities associated with their respective contributing factors are plotted above. Unsafe speed is unsurpsingly at the top of this list. 
+------
 ![Image](ContributingFactorCount.png)
 ![Image](DeathsPerAccidentByHour.png)
 ![Image](DeathsPerAccidentDayOfWeek.png)
