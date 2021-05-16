@@ -88,5 +88,6 @@ This project is an EDA (Exploratory Data Analysis) into NYC's Open Data Motor Ve
 ![Image](AccidentByNeighborhood.png)
 ##### Here we are taking a look at the number of accidents in each neighborhood. Hell's Kitchen/Midtown Manhattan takes the cake, however, it should be noted that this neighborhood covers a wide range of zip codes.
 -----
-
-
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://...Dark.png)  |  ![](https://...Ocean.png)
