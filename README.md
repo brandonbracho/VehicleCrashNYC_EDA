@@ -32,9 +32,16 @@ This project is an EDA (Exploratory Data Analysis) into NYC's Open Data Motor Ve
 ##### The contributing factors in vehicle accidents sorted by their repsective counts. 
 -----
 ![Image](DeathsPerAccidentByHour.png)
-##### Deaths by hour measured on a per accident basis. Deaths per accident increase significantly during the late night/early morning hours. This is likely due to 
+##### Deaths by hour measured on a per accident basis. Deaths per accident increase significantly during the late night/early morning hours. This is likely due to an increase in the proportion of accidents caused by Unsafe Speed. 
+-----
+![Image](UnsafeSpeed.png)
+##### Here we confirm that unsafe speeding makes up a greater proportion of accidents during the late night/early morning hours. Little vehicle traffic is likely the cause of this. 
+-----
 ![Image](DeathsPerAccidentDayOfWeek.png)
+##### Here deaths are calculated on a per accident basis and grouped by day of the week. The weekend features higher deaths per accidents. 
+-----
 ![Image](DeathsPerAccidentByYear.png)
+##### This plot showing deaths per accident by year shows that 2020 had significantly higher amounts of fatalities per accident. Roads with less traffic 
 ![Image](TotalDeathsByYear.png)
 ![Image](FatalitiesByDate.png)
 ![Image](NumberOfInjuriesPerAccidentBorough.png)
