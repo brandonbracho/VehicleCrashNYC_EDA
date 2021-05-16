@@ -90,4 +90,4 @@ This project is an EDA (Exploratory Data Analysis) into NYC's Open Data Motor Ve
 -----
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![](https://...Dark.png)  |  ![](https://...Ocean.png)
+![Image](Heatmap)  |  ![Image](Heatmap1)
