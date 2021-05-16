@@ -29,7 +29,10 @@ This project is an EDA (Exploratory Data Analysis) into NYC's Open Data Motor Ve
 ##### The total number of fatalities associated with their respective contributing factors are plotted above. Unsafe speed is unsurpsingly at the top of this list. 
 ------
 ![Image](ContributingFactorCount.png)
+##### The contributing factors in vehicle accidents sorted by their repsective counts. 
+-----
 ![Image](DeathsPerAccidentByHour.png)
+##### Deaths by hour measured on a per accident basis. Deaths per accident increase significantly during the late night/early morning hours. This is likely due to 
 ![Image](DeathsPerAccidentDayOfWeek.png)
 ![Image](DeathsPerAccidentByYear.png)
 ![Image](TotalDeathsByYear.png)
