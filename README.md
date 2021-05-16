@@ -22,6 +22,10 @@ This project is an EDA (Exploratory Data Analysis) into NYC's Open Data Motor Ve
 ![Image](Boxplot.png)
 ##### Distribution of daily vehicle accidents plotted on a boxplot.
 -----
+Density of Accidents in The Bronx, Manhattan, Queens |  Density of Accidents in Brooklyn and Staten Island
+:-------------------------:|:-------------------------:
+![Image](Heatmap.png)  |  ![Image](Heatmap1.png)
+-----
 ![Image](AverageAccidentsByHour.png)
 #### The average number of accidents tends to peak during during the PM rush hour. 
 -----
@@ -88,6 +92,4 @@ This project is an EDA (Exploratory Data Analysis) into NYC's Open Data Motor Ve
 ![Image](AccidentByNeighborhood.png)
 ##### Here we are taking a look at the number of accidents in each neighborhood. Hell's Kitchen/Midtown Manhattan takes the cake, however, it should be noted that this neighborhood covers a wide range of zip codes.
 -----
-Density of Accidents in The Bronx, Manhattan, Queens |  Density of Accidents in Brooklyn and Staten Island
-:-------------------------:|:-------------------------:
-![Image](Heatmap.png)  |  ![Image](Heatmap1.png)
+
